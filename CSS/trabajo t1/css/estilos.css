@@ -3,6 +3,7 @@ h1{
     color:black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: auto;
+    text-align: center;
 }
 
 .contenedor de tarjeta {
@@ -11,7 +12,7 @@ h1{
     left: 50%;
 }
 .imagen/descanso.jpg {
-    align-items: center;
+    
     
 
 }
